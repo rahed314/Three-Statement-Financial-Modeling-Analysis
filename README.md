@@ -1,8 +1,8 @@
-# Three-Statement Financial Modeling | Apex Solutions Inc.
+# Three-Statement Financial Modeling | ApexABC Solutions Inc.
 
-A five-year financial forecasting project built in **Microsoft Excel** for **Apex Solutions Inc.**, a fictional technology company operating across Software, Hardware, and IT Services.
+A five-year financial forecasting project built in **Microsoft Excel** for **ApexABC Solutions Inc.**, a fictional technology company operating across Software, Hardware, and IT Services.
 
-This is an independent case-study project based on materials from **WallStreetMojo**. My goal was to understand how the **Income Statement, Balance Sheet, and Cash Flow Statement** work together and how business assumptions affect profitability, cash flow, and financial position.
+This is an independent case-study project. My goal was to understand how the **Income Statement, Balance Sheet, and Cash Flow Statement** work together and how business assumptions affect profitability, cash flow, and financial position.
 
 ## Project Overview
 
@@ -75,27 +75,9 @@ The working-capital assumptions imply a **41-day cash conversion cycle** (19 day
 
 The balance-sheet check line shows **zero differences** in the five forecast periods of this version.
 
-## How to Explore the Model
-
-1. Download the [Excel financial model](./Financial_Modeling_Template_without_solutions_St.xlsx).
-2. Open it in Microsoft Excel and start with the `Index` worksheet.
-3. Review `Apex Solutions IS` for the revenue and profitability forecasts.
-4. Explore `Working Capital`, `Dep Capex`, and `Debt` to understand the assumptions feeding the financial statements.
-5. Review `Apex Solutions CF` and `Apex Solutions BS` for projected cash flows, financial position, and ratios.
-
-## Scope and Limitations
-
-This is a **learning project**, not a valuation report or investment recommendation. Apex Solutions Inc. is a **fictional case-study company**, and the results depend on the assumptions provided.
-
-Some later-year forecast values are manually entered rather than fully formula-driven, and the interest-income figures in the Income Statement do not yet fully reconcile with the Debt schedule. Historical cash flows are not populated in the workbook. These areas would need refinement before presenting the model as fully automated or using it for a real financial decision.
-
 ## Skills Practiced
 
 **Three-statement modeling · Financial forecasting · Excel · Working capital analysis · Cash flow forecasting · CapEx and depreciation modeling · Debt scheduling · Financial ratio analysis**
-
-## Credits
-
-Case-study scenario and original training materials: [WallStreetMojo](https://www.wallstreetmojo.com/). This repository is an independent educational exercise and is not affiliated with or endorsed by WallStreetMojo. The original training materials remain the property of their respective copyright holder; ensure you have permission before publicly redistributing the supplied template or case-study PDF.
 
 ## Author
 
