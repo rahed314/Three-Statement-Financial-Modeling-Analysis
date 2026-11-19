@@ -1,6 +1,6 @@
-# Three-Statement Financial Modeling | ApexABC Solutions Inc.
+# Three-Statement Financial Modeling | ABC Solutions Inc.
 
-A five-year financial forecasting project built in **Microsoft Excel** for **ApexABC Solutions Inc.**, a fictional technology company operating across Software, Hardware, and IT Services.
+A five-year financial forecasting project built in **Microsoft Excel** for **ABC Solutions Inc.**, a fictional technology company operating across Software, Hardware, and IT Services.
 
 This is an independent case-study project. My goal was to understand how the **Income Statement, Balance Sheet, and Cash Flow Statement** work together and how business assumptions affect profitability, cash flow, and financial position.
 
